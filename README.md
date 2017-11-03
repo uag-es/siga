@@ -1,4 +1,4 @@
 # siga
 
-Desenvolvedores 2017-2:
+Desenvolvedores 2017.2:
 -
