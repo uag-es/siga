@@ -6,3 +6,4 @@ Desenvolvedores 2017.2:
 - Morgan Oliveira
 - Andrei Lima A. dos Santos
 - Lucas da Silva Nascimento
+- Mateus Sousa Lopes
