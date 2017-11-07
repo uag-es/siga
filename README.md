@@ -1,4 +1,5 @@
 # siga
 
 Desenvolvedores 2017.2:
--Gabrielle Amorim
+- Gustavo Fernandes Luz
+- Gabrielle Amorim
