@@ -5,3 +5,4 @@ Desenvolvedores 2017.2:
 - Gabrielle Amorim
 - Morgan Oliveira
 - Andrei Lima A. dos Santos
+- Lucas da Silva Nascimento
