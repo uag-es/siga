@@ -1,4 +1,9 @@
 # siga
 
 Desenvolvedores 2017.2:
--Mateus Sousa Lopes
+- Gustavo Fernandes Luz
+- Gabrielle Amorim
+- Morgan Oliveira
+- Andrei Lima A. dos Santos
+- Lucas da Silva Nascimento
+- Mateus Sousa Lopes
