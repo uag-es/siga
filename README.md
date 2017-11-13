@@ -8,3 +8,4 @@ Desenvolvedores 2017.2:
 - Andrei Lima A. dos Santos
 - Lucas da Silva Nascimento
 - Mateus Sousa Lopes
+-Elyson Romeiro Azevedo Souto
