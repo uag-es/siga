@@ -1,10 +1,10 @@
 # siga
 
 Desenvolvedores 2017.2:
-- Jose Veira Camara Neto
 -Jose Samuel Germino Cavalcanti
 - Gustavo Fernandes Luz
 - Gabrielle Amorim
+- Jose Veira Camara Neto
 - Morgan Oliveira
 - Andrei Lima A. dos Santos
 - Lucas da Silva Nascimento
