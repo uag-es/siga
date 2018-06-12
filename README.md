@@ -6,6 +6,7 @@ Desenvolvedores 2017.2:
 - Gabrielle Amorim
 - Danillo Bion
 - Morgan Oliveira
+- Jose Cleidson Dos Santos Bezerra
 - Andrei Lima A. dos Santos
 - Lucas da Silva Nascimento
 - Mateus Sousa Lopes
