@@ -1,6 +1,7 @@
 # siga
 
 Desenvolvedores 2017.2:
+- Jailson José dos Santos Silva
 -Jose Samuel Germino Cavalcanti
 - Gustavo Fernandes Luz
 - Gabrielle Amorim
