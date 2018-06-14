@@ -1,12 +1,8 @@
-# siga
+﻿siga
 
-Desenvolvedores 2017.2:
--Jose Samuel Germino Cavalcanti
-- Gustavo Fernandes Luz
-- Gabrielle Amorim
+Desenvolvedores 2018.1:
+
+- Danillo Bion
+- Jailson José dos Santos Silva
+- Jose Cleidson Dos Santos Bezerra
 - Matheus da Silva Noronha
-- Morgan Oliveira
-- Andrei Lima A. dos Santos
-- Lucas da Silva Nascimento
-- Mateus Sousa Lopes
--Elyson Romeiro Azevedo Souto
