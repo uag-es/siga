@@ -1,5 +1,5 @@
 ﻿#siga
-
+ 
 Desenvolvedores 2018.1:
 
 - Danillo Bion
@@ -7,3 +7,5 @@ Desenvolvedores 2018.1:
 - Jose Cleidson Dos Santos Bezerra
 - Matheus da Silva Noronha
 - Jose Vieira Camara Neto
+- Vinicius Martins
+
